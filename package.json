@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "npm run css:lint",
+    "css:lint": "recess sample.css"
+  },
+  "devDependencies": {
+    "recess": "^1.1.9"
+  },
+  "private": true
+}
